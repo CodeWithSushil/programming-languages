@@ -1,0 +1,157 @@
+[{
+    "language": "Python",
+    "mode": "text/x-python",
+    "langCode": 116,
+    "filename": "demo_python",
+    "multifile": 1,
+    "multifilename": "prog2.py",
+    "mainfile": "prog.py"
+  },
+  {
+    "language": "Bash",
+    "mode": "text/x-sh",
+    "langCode": 28,
+    "filename": "demo_bash",
+    "multifile": 1,
+    "multifilename": "prog2.sh",
+    "mainfile": "prog.sh"
+  },
+  {
+    "language": "C#",
+    "mode": "text/x-csharp",
+    "langCode": 27,
+    "filename": "demo_cs",
+    "multifile": 1,
+    "multifilename": "Prog2.cs",
+    "mainfile": "prog.cs"
+  },
+  {
+    "language": "C++",
+    "mode": "text/x-c++src",
+    "langCode": 44,
+    "filename": "demo_cpp",
+    "multifile": 0,
+    "mainfile": "prog.cpp"
+  },
+  {
+    "language": "Clojure",
+    "mode": "text/x-clojure",
+    "langCode": 111,
+    "filename": "demo_clojure",
+    "multifile": 0,
+    "mainfile": "prog.clj"
+  },
+  {
+    "language": "Fortran",
+    "mode": "text/x-fortran",
+    "langCode": 5,
+    "filename": "demo_fortran",
+    "multifile": 0,
+    "mainfile": "prog.f"
+  },
+  {
+    "language": "Go",
+    "mode": "text/x-go",
+    "langCode": 114,
+    "filename": "demo_go",
+    "multifile": 1,
+    "multifilename": "lib/prog2.go",
+    "mainfile": "prog.go"
+  },
+  {
+    "language": "Java",
+    "mode": "text/x-java",
+    "langCode": 10,
+    "filename": "demo_java",
+    "multifile": 1,
+    "multifilename": "Prog2.Java",
+    "mainfile": "Main.Java"
+  },
+  {
+    "language": "Kotlin",
+    "mode": "text/x-java",
+    "langCode": 47,
+    "filename": "demo_kotlin",
+    "multifile": 0,
+    "mainfile": "prog.kt"
+  },
+  {
+    "language": "Node.js",
+    "mode": "text/javascript",
+    "langCode": 56,
+    "filename": "demo_nodejs",
+    "multifile": 1,
+    "multifilename": "prog2.js",
+    "mainfile": "prog.js"
+  },
+  {
+    "language": "PHP",
+    "mode": "application/x-httpd-php",
+    "langCode": 29,
+    "filename": "demo_php",
+    "multifile": 1,
+    "multifilename": "prog2.php",
+    "mainfile": "prog.php"
+  },
+  {
+    "language": "Perl",
+    "mode": "text/x-perl",
+    "langCode": 54,
+    "filename": "demo_perl",
+    "multifile": 1,
+    "multifilename": "Prog2.pm6",
+    "mainfile": "prog.pl"
+  },
+  {
+    "language": "R",
+    "mode": "text/x-rsrc",
+    "langCode": 117,
+    "filename": "demo_r",
+    "multifile": 1,
+    "multifilename": "prog2.r",
+    "mainfile": "prog.r"
+  },
+  {
+    "language": "Ruby",
+    "mode": "text/x-ruby",
+    "langCode": 17,
+    "filename": "demo_ruby",
+    "multifile": 1,
+    "multifilename": "prog2.rb",
+    "mainfile": "prog.rb"
+  },
+  {
+    "language": "Scala",
+    "mode": "text/x-scala",
+    "langCode": 39,
+    "filename": "demo_scala",
+    "multifile": 1,
+    "multifilename": "prog2.scala",
+    "mainfile": "prog.scala"
+  },
+  {
+    "language": "Swift",
+    "mode": "text/x-swift",
+    "langCode": 85,
+    "filename": "demo_swift",
+    "multifile": 0,
+    "mainfile": "prog.swift"
+  },
+  {
+    "language": "TypeScript",
+    "mode": "application/typescript",
+    "langCode": 57,
+    "filename": "demo_typescript",
+    "multifile": 0,
+    "mainfile": "prog.ts"
+  },
+  {
+    "language": "VB.NET",
+    "mode": "text/x-vb",
+    "langCode": 50,
+    "filename": "demo_vbnet",
+    "multifile": 1,
+    "multifilename": "prog2.vb",
+    "mainfile": "prog.vb"
+  }
+];
